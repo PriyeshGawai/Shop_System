@@ -1,0 +1,17 @@
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.Form1.resources
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.vbproj.GenerateResource.cache
+E:\Project\visual studio\Shop_System\Shop_System\bin\Debug\net8.0-windows\Shop_System.exe
+E:\Project\visual studio\Shop_System\Shop_System\bin\Debug\net8.0-windows\Shop_System.deps.json
+E:\Project\visual studio\Shop_System\Shop_System\bin\Debug\net8.0-windows\Shop_System.runtimeconfig.json
+E:\Project\visual studio\Shop_System\Shop_System\bin\Debug\net8.0-windows\Shop_System.dll
+E:\Project\visual studio\Shop_System\Shop_System\bin\Debug\net8.0-windows\Shop_System.pdb
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.Resources.resources
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.AssemblyInfoInputs.cache
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.AssemblyInfo.vb
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.vbproj.CoreCompileInputs.cache
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.dll
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\refint\Shop_System.dll
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.pdb
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\Shop_System.genruntimeconfig.cache
+E:\Project\visual studio\Shop_System\Shop_System\obj\Debug\net8.0-windows\ref\Shop_System.dll
